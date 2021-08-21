@@ -1,2 +1,3 @@
 # GovHack2021
-Project for GovHack2021
+
+Our project aims to use data from publicly available IoT devices, such as air quality, humidity and temperature sensors from different regions in QLD; with a particular focus on Moreton Bay, since they've got established IoT infrastructure. This project combines these near-real time data sources with open data about crop yield sales, weather predictions, water availability and bush fire probability. These data driven insights enable farmers to make informed decisions about when to harvest their crops, and what kind of crops should be grown to maximise profits, and reduce product waste.
