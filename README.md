@@ -5,7 +5,7 @@ Our project aims to use data from publicly available IoT devices, such as air qu
 There three parts to the project:
 - The data and the sensors
 - Backend to process all the data
-- An app for the user to use to recieve predictions and monitor their farms.
+- An app and web interface for the user to use to recieve predictions and monitor their farms.
 
 ## Sensors and Data
 
