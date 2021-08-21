@@ -4,7 +4,7 @@ Our project aims to use data from publicly available IoT devices, such as air qu
 
 There three parts to the project:
 - The data and the sensors
-- Azure Cloud to process all the data
+- Backend to process all the data
 - An app for the user to use to recieve predictions and monitor their farms.
 
 ## Sensors and Data
@@ -13,6 +13,11 @@ The Moreton Bay regional Council has provided a wide range of IoT devices that a
 
 Adding to the near realtime data of IoT devices, government organizations like the Department of Agriculture and Fisheries QLD, provide insights into agribusiness by providing data sets that look at consumer trends and money spent on produce in certain regions. There are also tool kits like Spark from CSIRO and data APIs from BOM which can help with predicting and monitoring bushfire and other weather events like cyclones and heat waves. 
 
-## Azure Cloud
+## Backend
+The backend of the app runs on a cloud service like Microsoft's Azure. It will analyse data from the IoT devices using their APIs and combine it with information provided by the user, and the open data sets. Using all this information, the system will make recommendations to the user. 
 
-## App
+## App and web interface
+The mobile app acts as the front end for all the IoT and weather related data. This way the user can check the status of their farms while on the field.
+
+The web interface provides the user with insights to their agribusiness, while using popularity data from open data sets to suggest what to produce to be more sustainable and profitable. 
+
