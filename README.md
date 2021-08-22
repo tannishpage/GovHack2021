@@ -27,11 +27,11 @@ The web interface provides the user with insights to their agribusiness, while u
 ## Sketches of App
 
 <p float="left">
-  <img src="./ProductionWeatherOverviewInterface.svg" width="25%" height="25%">
-  <img src="./weather_warnings.svg" width="60%" height="60%">
+  <img src="./Interface.png" width="25%" height="25%">
+  <img src="./weather_warnings.png" width="60%" height="60%">
 </p>
 
 ## Sketch of Web Interface
 
-<img src="./BuisnessInterface.svg">
+<img src="./BuisnessInterface.png">
 
